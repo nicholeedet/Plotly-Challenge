@@ -1,6 +1,4 @@
-// Belly Button Biodiversity by Elvis Selimaj, GWU BootCamp 
-
-// Function to pull names from json file and add them in the filter
+// Belly Button Biodiversity 
 
 
 
